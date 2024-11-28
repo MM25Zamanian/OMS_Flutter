@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "appTitle": "OMS",
+  "navigationBar_homeItem": "Home",
+  "navigationBar_productsItem": "Products",
+  "navigationBar_ordersItem": "Orders",
+  "navigationBar_supportItem": "Support",
+  "navigationBar_menuItem": "Menu",
+  "navigationDrawer_homeItem": "Home",
+  "navigationDrawer_productsItem": "Products List",
+  "navigationDrawer_ordersItem": "Orders List",
+  "navigationDrawer_supportItem": "Call to Support"
+}

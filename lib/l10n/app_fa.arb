@@ -1,0 +1,14 @@
+{
+  "@@locale": "fa",
+  "@@x-template": "./app_en.arb",
+  "appTitle": "OMS",
+  "navigationBar_homeItem": "خانه",
+  "navigationBar_productsItem": "محصولات",
+  "navigationBar_ordersItem": "سفارشات",
+  "navigationBar_supportItem": "پشتیبانی",
+  "navigationBar_menuItem": "منو",
+  "navigationDrawer_homeItem": "خانه",
+  "navigationDrawer_productsItem": "لیست محصولات",
+  "navigationDrawer_ordersItem": "لیست سفارشات",
+  "navigationDrawer_supportItem": "تماس با پشتیبانی"
+}
